@@ -1,6 +1,6 @@
 # Alejandro Gonzalez
 
-An inspirational quote in italics
+*Push yourself, because no one else is going to do it for you.*
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
@@ -36,4 +36,4 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< previous || YOUR NAME || next >>
+[<< previous](https://github.com/xandervdh/markdown-challenge) || YOUR NAME || [next >>](https://github.com/awet100/markdown-challenges)
