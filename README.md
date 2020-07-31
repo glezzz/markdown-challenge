@@ -2,15 +2,16 @@
 
 *Push yourself, because no one else is going to do it for you.*
 
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
+![Me](Alejandro.JPG)
 
-"Me, in one sentence" (as a smaller header)
+
+### Just a regular guy trying to become a developer
 
 A table with the following structure:
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
+|Birthday| 25/08
+|Favorite color|blue|
+|Favorite food|pizza|
 Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
 Hobbies (smaller header)
